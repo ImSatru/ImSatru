@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">My name is Satru and I´m currently studying at the Santiago de cali university (USC) as a Technologist in Information Systems and Software Development. I´m new in web Development learning something new everyday to achieve my goal to be a Front end developer</h2>
+<p align="left">My name is Satru and I´m currently studying at the Santiago de cali university (USC) as a Technologist in Information Systems and Software Development. I´m new in web Development learning something new everyday to achieve my goal to be a Front end developer</p>
 
 ###
 
